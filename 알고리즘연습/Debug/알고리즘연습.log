@@ -1,0 +1,16 @@
+﻿  bj1085.cpp
+c:\users\안형준\source\repos\알고리즘연습\알고리즘연습\bj1085.cpp(18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bj1152.cpp
+c:\users\안형준\source\repos\알고리즘연습\알고리즘연습\bj1152.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\안형준\source\repos\알고리즘연습\알고리즘연습\bj1152.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  bj1157.cpp
+c:\users\안형준\source\repos\알고리즘연습\알고리즘연습\bj1157.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  bj1193.cpp
+  bj1316.cpp
+c:\users\안형준\source\repos\알고리즘연습\알고리즘연습\bj1316.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  bj1712.cpp
+  bj1874.cpp
+c:\users\안형준\source\repos\알고리즘연습\알고리즘연습\bj1874.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  bj1929.cpp
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1561: 진입점이 정의되어야 합니다.
